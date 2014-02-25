@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Blog for learning Web Technologies">
+    <meta name="author" content="Naresh Kumar">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+
+    <title>Java UI Lab Template for Assignments</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Bootstrap theme -->
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/template1.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]>
+    <script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body role="document">
+
+<!-- Fixed navbar -->
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Template 1</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="html5.html">HTML5</a></li>
+                <li><a href="css3.html">CSS</a></li>
+                <li><a href="#">Javascript</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Frameworks <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <!--<li><a href="#">HTML5</a></li>
+                        <li><a href="#">CSS</a></li>
+                        <li><a href="#">Javascript</a></li>-->
+                        <!-- <li class="divider"></li>
+                         <li class="dropdown-header">Nav header</li>-->
+                        <li><a href="#">JQuery</a></li>
+                        <li><a href="#">Backbone.js</a></li>
+                        <li><a href="#">Angular.js</a></li>
+                        <li><a href="#">Hibernate.js</a></li>
+                    </ul>
+                </li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+            <form class="navbar-form navbar-right">
+                <input type="text" class="form-control navbar-search-box" placeholder="Search...">
+                <!--<a href="#" > <span class="glyphicon glyphicon-search"></span> </a>-->
+                <button class="btn-search"> <span class="glyphicon glyphicon-search"></span> </button>
+            </form>
+
+        </div>
+        <!--/.nav-collapse -->
+    </div>
+</div>
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/html5.jpg" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> Html5 Slide !!!</h1>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/css3-1.jpg" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> CSS Slide !!!</h1>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/js1.png" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> Javascript Slide !!!</h1>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/jquery_black.jpg" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> JQuery Slide !!!</h1>
+            </div>
+        </div>
+        <div class="item">
+            <img src="img/backbone.js.png" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> BackboneJS Slide !!!</h1>
+            </div>
+        </div>
+
+
+        <div class="item">
+            <img src="img/angularjs.png" alt="" style="width:100%; height: 400px;">
+            <div class="carousel-caption">
+                <h1> AngularJS Slide !!!</h1>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+</div>
+
+<div class="container theme-showcase" role="main">
+
+
+    <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <h2><a href="html5.html" >HTML5 </a></h2>
+            <p>Assignments which I did to understand the basics of <a href="http://en.wikipedia.org/wiki/HTML5" >HTML5 </a>. It can also be used as reference to understand some of the basic concepts of Html5. Some of the cool features available in Html 5 like canvas, video, audio, sgml, track, article, section, header, footer etc are implemented and documented for future reference.
+                This could be also be used as a <a href="http://en.wikipedia.org/wiki/HTML5" >HTML5 </a> Manual for beginners.</p>
+            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <h2><a href="#" >CSS</a></h2>
+            <p>Assignments which I did to understand the basics of <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" >CSS</a>. It can also be used as reference to understand some of the basic concepts of CSS. Some of the cool features available in CSS like layout, grouping, box model etc are implemented and documented for future reference.
+                This could be also be used as a <a href="#" >CSS</a> Manual for beginners. </p>
+            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <h2><a href="#" >Javascript</a></h2>
+            <p>Assignments which I did to understand the basics of <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" >Javascript</a>. It can also be used as reference to understand some of the basic concepts of Javascript. Some of the cool features available in Javascript like functions, Objects, Closures, etc are implemented and documented for future reference.
+                This could be also be used as a <a href="#" >Javascript</a> Manual for beginners.</p>
+            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <h2><a href="#" >Frameworks </a></h2>
+            <p>The Assignments to understand the basics of the <a href="http://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks" >Javascript Framework </a> like <a href="http://jquery.com/" >JQuery</a>, <a href="http://angularjs.org/" > AngularJS</a>, <a href="http://backbonejs.org/" > BackboneJS</a>, <a href="http://www.sencha.com/products/extjs/" > ExtJS</a>, <a href="http://nodejs.org/" > NodeJS</a>, <a href="https://www.meteor.com/" > MeteorJS</a> etc. Hopefully I will be adding some more frameworks to my arsenal. These assignments will take you throught the basics for learning the mentioned Javascript framework from the ground up.</p>
+            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+        </div>
+    </div>
+
+
+
+    <div class="page-header">
+        <h1>Wells</h1>
+    </div>
+    <div class="well">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non
+            magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo cursus magna, vel scelerisque
+            nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi
+            erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur.</p>
+    </div>
+
+
+</div>
+<!-- /container -->
+<footer>  <!--- FOOTER --->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <address>
+                    <strong>Naresh Kumar</strong><br>
+                    1858 Bexley landing<br>
+                    San Jose, CA 95132<br>
+                    <abbr title="Phone">P:</abbr> (520) 818-4462
+                </address>
+
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 footer-vertical-line">
+                <h4> Social Media </h4>
+                <img src="img/socialmedia/Facebook.png" title="facebook" />
+                <img src="img/socialmedia/Google+.png" title="Google+" />
+                <img src="img/socialmedia/LinkedIn.png" title="linkedin" />
+                <img src="img/socialmedia/Twitter.png" title="Twitter" />
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+
+            </div>
+
+            <!-- Add the extra clearfix for only the required viewport -->
+            <div class="clearfix visible-xs"></div>
+
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 footer-vertical-line">
+                <h4> Tags </h4>
+                <p>
+                    Programming, Web Application Development,
+                    Software Development, HTML5, CSS3, Javascript, JQuery,
+                    BackboneJS, AngularJS
+                </p>
+
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 footer-vertical-line">
+                <p> Copyright &copy; Naresh Kumar 2014</p>
+                <br/>
+                <br/>
+                <br/><br/>
+                <br/>
+
+
+            </div>
+        </div>
+    </div>
+
+</footer> <!--- !FOOTER --->
+
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/app.js"></script>
+<!--
+<script src="js/docs.min.js"></script>
+-->
+</body>
+</html>

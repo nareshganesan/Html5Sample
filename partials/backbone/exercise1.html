@@ -1,0 +1,114 @@
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="backbone-content">
+
+</div>
+
+
+<script type="text/template" id="ex1-template">
+    <div class="jumbotron">
+        <div class="container">
+            <h2>Exercise 1 </h2>
+            <p> Create one page with one button, when user clicks on button then it should add one &lt;li&gt; having the text Hello World.
+                Add the counter variable to Hello World like <strong>"Hello World..::1" </strong> and click multiple time on button and it should maintain the counter value
+            </p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-full-width">
+            <hr/>
+            <div class="row" >
+                <button id="createLi" name="createLi" >Add List</button>
+                <ul></ul>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="ex2-template">
+    <div class="jumbotron">
+        <div class="container">
+            <h2>Exercise 2 </h2>
+            <p> Self made example of backbone.js, it can be any tiny example.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-full-width">
+            <hr/>
+            <div class="row" >
+
+            </div>
+        </div>
+    </div>
+
+</script>
+
+
+<script src="js/jquery.js"></script>
+<script src="js/Underscore.js"></script>
+<script src="js/Backbone.js"></script>
+
+<script>
+    /*var liCounter = 0;*/
+
+
+    var exercise1 = Backbone.View.extend({
+        el : '.backbone-content',
+        events: {
+            'click button#createLi': 'addItem'
+        },
+        initialize: function(){
+            _.bindAll(this, 'render', 'addItem');
+            this.liCounter = 0;
+        },
+        render : function()  {
+            var template = _.template($('#ex1-template').html(), {});
+            this.$el.append(template);
+        },
+        addItem: function(){
+            this.liCounter++;
+            $('ul', this.el).append("<li>hello world"+this.liCounter+"</li>");
+        }
+    });
+
+    var ex1 = new exercise1();
+
+
+    var exercise2 = Backbone.View.extend({
+        el : '.backbone-content',
+        initialize: function(){
+            _.bindAll(this, 'render');
+        },
+        render : function()  {
+            var template2 = _.template($('#ex2-template').html(), {});
+            this.$el.html(template2);
+        }
+    });
+
+    var ex2 = new exercise2();
+
+
+
+    var Router = Backbone.Router.extend({
+        routes : {
+            '': 'exercise1',
+            'exercise1': 'exercise1',
+            'exercise2': 'exercise2'
+        }
+    });
+
+    var router = new Router();
+
+    router.on('route:exercise1', function() {
+        ex1.render();
+    });
+    router.on('route:exercise2', function() {
+        ex2.render();
+    });
+
+    Backbone.history.start();
+</script>
+
+

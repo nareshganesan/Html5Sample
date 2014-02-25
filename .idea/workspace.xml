@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb3c414a-3733-495a-b784-e1fede59f19e" name="Default" comment="" />
+    <ignored path="BootstrapAngularJS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BootstrapAngularJS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="181" column="23" selection-start="7043" selection-end="7043" vertical-scroll-proportion="0.0" vertical-offset="2715" max-vertical-offset="3705">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backbonejs.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backbonejs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="358" column="31" selection-start="13501" selection-end="13501" vertical-scroll-proportion="0.6671449" vertical-offset="4905" max-vertical-offset="6300">
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1392719478000" expanded="true" signature="8195:8678" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8227:8667" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8276:8652" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8701:10822" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8738:10811" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8774:10796" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="8973:9427" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="9456:9572" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="9624:9971" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10005:10207" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10264:10472" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10506:10776" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10909:11329" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10941:11318" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="10990:11303" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11352:11524" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11389:11513" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11611:11784" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11643:11773" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11807:11939" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11844:11928" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="11892:11913" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="12027:12170" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="12059:12159" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="12193:12325" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="12230:12314" placeholder="..." />
+                <marker date="1392719478000" expanded="true" signature="12278:12299" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html5.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="72" selection-start="5845" selection-end="5845" vertical-scroll-proportion="0.0" vertical-offset="1830" max-vertical-offset="3840">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/template1faircopy.html" />
+        <option value="$PROJECT_DIR$/template1.html" />
+        <option value="$PROJECT_DIR$/template1roughcopy.html" />
+        <option value="$PROJECT_DIR$/css/carousel.css" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/carousel.html" />
+        <option value="$PROJECT_DIR$/SAMPLE.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/partials/html5/exercise1.html" />
+        <option value="$PROJECT_DIR$/partials/html5/exercise2.html" />
+        <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/partials/html5/intro.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/css3.html" />
+        <option value="$PROJECT_DIR$/partials/backbone/intro.html" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/partials/backbone/exercise2.html" />
+        <option value="$PROJECT_DIR$/partials/backbone/exercise3.html" />
+        <option value="$PROJECT_DIR$/partials/backbone/newex1.html" />
+        <option value="$PROJECT_DIR$/newex1.html" />
+        <option value="$PROJECT_DIR$/js/custom/backbonescripts.js" />
+        <option value="$PROJECT_DIR$/partials/backbone/exercise1.html" />
+        <option value="$PROJECT_DIR$/backbonejs.html" />
+        <option value="$PROJECT_DIR$/bootstrap-grid.html" />
+        <option value="$PROJECT_DIR$/css/template1.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/html5.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="22" />
+    <option name="width" value="1436" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootstrapAngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootstrapAngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootstrapAngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootstrapAngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BootstrapAngularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/partials/backbone" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/assets/ico" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3c414a-3733-495a-b784-e1fede59f19e" name="Default" comment="" />
+      <created>1390729722831</created>
+      <updated>1390729722831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="22" width="1436" height="878" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24805653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="181" column="23" selection-start="7043" selection-end="7043" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbonejs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="358" column="31" selection-start="13501" selection-end="13501" vertical-scroll-proportion="0.0" vertical-offset="4905" max-vertical-offset="6300">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1392719478000" expanded="true" signature="8195:8678" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8227:8667" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8276:8652" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8701:10822" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8738:10811" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8774:10796" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8973:9427" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9456:9572" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9624:9971" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10005:10207" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10264:10472" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10506:10776" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10909:11329" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10941:11318" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10990:11303" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11352:11524" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11389:11513" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11611:11784" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11643:11773" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11807:11939" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11844:11928" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11892:11913" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12027:12170" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12059:12159" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12193:12325" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12230:12314" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12278:12299" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="72" selection-start="5845" selection-end="5845" vertical-scroll-proportion="0.0" vertical-offset="1830" max-vertical-offset="3840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbonejs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="212" selection-start="0" selection-end="10827" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="3855">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1392719478000" expanded="true" signature="8195:8678" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8227:8667" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8276:8652" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8701:10822" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8738:10811" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8774:10796" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8973:9427" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9456:9572" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9624:9971" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10005:10207" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10264:10472" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10506:10776" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10909:11329" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10941:11318" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10990:11303" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11352:11524" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11389:11513" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11611:11784" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11643:11773" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11807:11939" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11844:11928" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11892:11913" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12027:12170" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12059:12159" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12193:12325" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12230:12314" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12278:12299" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/backbone/exercise1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="669" selection-end="1119" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom/backbonescripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="71" selection-end="71" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="165">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="47" selection-start="3630" selection-end="3878" vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAMPLE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="0" selection-start="1714" selection-end="1714" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="0" selection-start="2865" selection-end="2865" vertical-scroll-proportion="0.96021223" vertical-offset="1496" max-vertical-offset="2310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5431" column="24" selection-start="115107" selection-end="115107" vertical-scroll-proportion="0.56363636" vertical-offset="81062" max-vertical-offset="87555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ico/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="283" selection-end="283" vertical-scroll-proportion="0.30927834" vertical-offset="0" max-vertical-offset="776" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/html5/exercise2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="336" selection-end="336" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/html5/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="611" selection-end="611" vertical-scroll-proportion="0.2232747" vertical-offset="0" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="0" selection-start="4700" selection-end="4700" vertical-scroll-proportion="0.3301759" vertical-offset="1496" max-vertical-offset="2865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="10" selection-start="7379" selection-end="7379" vertical-scroll-proportion="0.594046" vertical-offset="2066" max-vertical-offset="3630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/html5/exercise1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="0" selection-end="1560" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/backbone/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="26" selection-start="829" selection-end="829" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="42" selection-start="761" selection-end="761" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAMPLE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="101" selection-end="101" vertical-scroll-proportion="0.07978723" vertical-offset="120" max-vertical-offset="1515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom/backbonescripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="776">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Backbone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="57" selection-start="688" selection-end="688" vertical-scroll-proportion="0.27061856" vertical-offset="0" max-vertical-offset="24210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/backbone/exercise2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="73" selection-start="168" selection-end="228" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/backbone/exercise1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="116" selection-end="865" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/backbone/exercise3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="43" selection-start="179" selection-end="210" vertical-scroll-proportion="0.099734046" vertical-offset="0" max-vertical-offset="752" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="49" selection-start="2882" selection-end="2882" vertical-scroll-proportion="0.53315294" vertical-offset="551" max-vertical-offset="3915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/template1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="132" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.6713917" vertical-offset="889" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="22" selection-start="5387" selection-end="5387" vertical-scroll-proportion="0.7713126" vertical-offset="1125" max-vertical-offset="3000">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#1;tag#div#0;tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="72" selection-start="5845" selection-end="5845" vertical-scroll-proportion="0.0" vertical-offset="1830" max-vertical-offset="3840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="22" selection-end="22" vertical-scroll-proportion="0.019946808" vertical-offset="0" max-vertical-offset="2220">
+          <folding>
+            <element signature="tag#head#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="181" column="23" selection-start="7043" selection-end="7043" vertical-scroll-proportion="0.0" vertical-offset="2715" max-vertical-offset="3705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2975098" vertical-offset="990" max-vertical-offset="136740">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backbonejs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="358" column="31" selection-start="13501" selection-end="13501" vertical-scroll-proportion="0.6671449" vertical-offset="4905" max-vertical-offset="6300">
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1392719478000" expanded="true" signature="8195:8678" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8227:8667" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8276:8652" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8701:10822" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8738:10811" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8774:10796" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="8973:9427" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9456:9572" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="9624:9971" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10005:10207" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10264:10472" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10506:10776" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10909:11329" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10941:11318" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="10990:11303" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11352:11524" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11389:11513" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11611:11784" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11643:11773" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11807:11939" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11844:11928" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="11892:11913" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12027:12170" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12059:12159" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12193:12325" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12230:12314" placeholder="..." />
+            <marker date="1392719478000" expanded="true" signature="12278:12299" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

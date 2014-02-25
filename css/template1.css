@@ -1,0 +1,105 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.theme-dropdown .dropdown-menu {
+    display: block;
+    position: static;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.navbar-search-box {
+    height: 32px;
+    border-radius: 15px;
+}
+
+.glyphicon-search {
+    font-size: 20px;
+    top: 7px;
+    margin-left: 0px;
+}
+
+.btn-search {
+    border:none;
+    background-color: #3c3c3c !important;
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3c3c3c", endColorstr="#3c3c3c");
+    background-image: -khtml-gradient(linear, left top, left bottom, from(#3c3c3c), to(#3c3c3c));
+    background-image: -moz-linear-gradient(top, #3c3c3c #3c3c3c);
+    background-image: -ms-linear-gradient(top, #3c3c3c, #3c3c3c);
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3c3c3c), color-stop(100%, #3c3c3c));
+    background-image: -webkit-linear-gradient(top, #3c3c3c, #3c3c3c);
+    background-image: -o-linear-gradient(top, #3c3c3c, #3c3c3c);
+    background-image: linear-gradient(#3c3c3c, #3c3c3c);
+    border-color: #3c3c3c #3c3c3c #3c3c3c;
+    color: #fff !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
+    -webkit-font-smoothing: antialiased;
+}
+
+.btn-outline {
+    color: #428bca;
+    background-color: transparent;
+    border-color: #428bca;
+
+}
+
+.btn-outline:hover {
+    color: #ffffff;
+    background-color: #428bca;
+    border-color: #428bca;
+
+}
+
+.sidebar-panel {
+    box-shadow: 0 1px 2px rgba(0,0,0,.075);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.075);
+    border-color: #dddddd;
+}
+
+.col-full-width {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+}
+
+.thumbnail img {
+    width: 300px;
+    height: 200px;
+}
+
+.footer-vertical-line {
+    border-left:  1px solid GREY;
+}
+
+footer {
+    height: 180px;
+    background-color: #222;
+    color: #dddddd;
+}
+
+footer .container .row {
+    margin-top: 20px;
+}
+
+footer .container .row .col-xs-3, footer .container .row .col-sm-3, footer .container .row .col-md-3, footer .container .row .col-lg-3 {
+    height: 5%;
+}
+
+/*div[class*='col-'] {
+    background-color: greenyellow;
+    color: grey;
+    border: 1px solid green;
+}*/
+
+
